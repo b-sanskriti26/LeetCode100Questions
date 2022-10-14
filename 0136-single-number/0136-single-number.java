@@ -12,6 +12,6 @@ class Solution {
         for(int k:set){
             return k;
         }
-        return -1;
+        return 0;
     }
 }
